@@ -6,6 +6,6 @@ The original version of this manual was published publicly for anyone to referen
 
 You can fork a copy for yourself at  [https://github.com/impress-org/support-manual]()(https://github.com/impress-org/support-manual) 
 
-We are extremely grateful to Impress for the incredible amount of thought and care that has gone into developing this manual and their support processes. 
+I'm extremely grateful to Impress for the incredible amount of thought and care that has gone into developing this manual and their support processes. 
 
 
